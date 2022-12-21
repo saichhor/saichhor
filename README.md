@@ -8,3 +8,8 @@
 Generates a snake game from a github user contributions graph
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+My Github Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=saichhor&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichhor&layout=compact&count_private=true&theme=gruvbox" />
